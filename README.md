@@ -20,7 +20,7 @@ I am Valentino Isgro, a dedicated and passionate 20 years old Systems Engineerin
 #### 🔧 Back-End Development
 <table>
   <tr>
-    <td><img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></td>
+   <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/></td>
   </tr>
 </table>
@@ -30,7 +30,6 @@ I am Valentino Isgro, a dedicated and passionate 20 years old Systems Engineerin
 <table>
   <tr>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/></td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/></td>
   </tr>
 </table>
   
@@ -39,7 +38,6 @@ I am Valentino Isgro, a dedicated and passionate 20 years old Systems Engineerin
 <table>
   <tr>
     <td><img width="80px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"/></td>
-    <td><img width="80px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular"/></td>
   </tr>
 </table>
 
